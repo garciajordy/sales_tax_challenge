@@ -1,0 +1,10 @@
+<% flash.each do |type,msg|%>
+<p><%= msg %></p>
+<% end%>
+<%= form_with url: pages_path, multipart: true do |f| %>
+<%= f.file_field :file, accept: 'text/plain' %>
+<%= f.submit "Submit" %>
+<% end %>
+
+
+<%= display_receipt(@basket) %>
