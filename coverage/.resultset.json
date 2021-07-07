@@ -1,0 +1,130 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/helpers/pages_helper.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          1,
+          6,
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/models/category.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/models/product.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/controllers/pages_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/jordygarcia/Desktop/Classroom/sales_tax/app/controllers/concerns/basket_concern.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          4,
+          4,
+          24,
+          4,
+          4,
+          4,
+          4,
+          4,
+          null,
+          1,
+          null,
+          null,
+          1,
+          4,
+          4,
+          4,
+          4,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1625662386
+  }
+}
